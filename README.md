@@ -7,6 +7,7 @@
 Naver Cloud Platform을 기반으로 서버 이중화와 CI/CD 환경도 고려하였습니다.
 
 ## Architecture
+<img width="1659" height="846" alt="Image" src="https://github.com/user-attachments/assets/d7db7815-521d-4b76-80e5-4af2c5dacf7d" />
 
 **구성 요소**
 - **Platform:** Naver Cloud
