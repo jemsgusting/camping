@@ -4,6 +4,7 @@
 
 ## Description 
 캠핑장 이벤트 예약을 효율적으로 관리하기 위해 설계된 **3-Tier 기반 웹 시스템**
+
 Naver Cloud Platform을 기반으로 멀티존을 통한 이중화 및 CI/CD 환경 구축
 
 ## Architecture
