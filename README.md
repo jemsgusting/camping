@@ -3,8 +3,8 @@
 > Date: 2025/08/4 ~ 2025/09/30
 
 ## Description 
-캠핑장 이벤트 예약을 효율적으로 관리하기 위해 설계된 **3-Tier 기반 웹 시스템**입니다.  
-Naver Cloud Platform을 기반으로 서버 이중화와 CI/CD 환경도 고려하였습니다.
+캠핑장 이벤트 예약을 효율적으로 관리하기 위해 설계된 **3-Tier 기반 웹 시스템**
+Naver Cloud Platform을 기반으로 멀티존을 통한 이중화 및 CI/CD 환경 구축
 
 ## Architecture
 <img width="1659" height="846" alt="Image" src="https://github.com/user-attachments/assets/d7db7815-521d-4b76-80e5-4af2c5dacf7d" />
